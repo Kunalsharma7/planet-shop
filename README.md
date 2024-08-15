@@ -1,1 +1,1 @@
-This is just a basic website using HTML & CSS only 
+This is just a basic practice website using HTML & internal CSS only.
